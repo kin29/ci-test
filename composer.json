@@ -2,7 +2,7 @@
     "name": "kin29/ci-test",
     "description": "it is ci-test.",
     "require": {
-        "php": "7.2.7"
+        "php": ">=7.0.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^7.3"
